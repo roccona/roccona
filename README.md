@@ -5,7 +5,7 @@
 <p>
   <div align="center">
     <br>
-      18 ∿ full-time student ∿ learning<br><br>
+      18 ∿ full-time student<br><br>
       i don't know what to put here yet
     <br><br>
       <img src="https://readme-stats-eight-ruddy.vercel.app/api?username=bajudev&show_icons=true&hide_border=true&count_private=true&hide_title=true&title_color=e8e0f5&text_color=b89fd4&icon_color=b89fd4&bg_color=29203e&card_width=495&hide=stars" alt="stats" />
